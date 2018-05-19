@@ -3,11 +3,10 @@
 <li>
 Open your <b>Transcript page</b> on IULMS
 </li>
-<li>
-Press <b>CTRL+S</b> to Save the Page on a Specific Directory
-</li>
+ <img src="https://image.ibb.co/nyVTT8/img1.png">
 </br>
-
+</br>
+</br>
 
 <li>Now, <b>Open</b> the Transcript.html file on Notepad and <b>Find '/head' </b> </li>
 </br>
