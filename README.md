@@ -3,6 +3,8 @@
 <li>
 Open your <b>Transcript page</b> on IULMS
 </li>
+</br>
+</br>
  <img src="https://image.ibb.co/nyVTT8/img1.png">
 </br>
 </br>
