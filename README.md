@@ -4,6 +4,10 @@
 Open your <b>Transcript page</b> on IULMS
 </li>
 </br>
+<li>
+Press <b>CTRL + S</b> to Save your Transcript
+</li>
+</br>
  <img src="https://image.ibb.co/nyVTT8/img1.png">
 </br>
 </br>
