@@ -7,27 +7,7 @@ Open your <b>Transcript page</b> on IULMS
 Press <b>CTRL+S</b> to Save the Page on a Specific Directory
 </li>
 </br>
-<img src="https://image.ibb.co/nyVTT8/img1.png">
-</br>
-</br>
-</br>
-<li> After Saving your Transcript , <b>Download the Script</b> from Above</li>
-</br>
-<img src="https://image.ibb.co/eHKBgT/img2.png">
-<li><b>Extract the Script</b></li>
-</br>
 
-<img src="https://image.ibb.co/hajYvo/img3.png">
-</br>
-</br>
-<li> Open Script-master Folder , <b>Copy CGPA-Script.js</b> & <b>Paste it in your Transcript.html File Directory</b>  </li>
-</br>
-</br>
-
-<img src="https://image.ibb.co/iKzBgT/Img4.png">
-<img src="https://image.ibb.co/bKKcMT/img5.png">
-</br>
-</br>
 
 <li>Now, <b>Open</b> the Transcript.html file on Notepad and <b>Find '/head' </b> </li>
 </br>
@@ -44,7 +24,7 @@ Press <b>CTRL+S</b> to Save the Page on a Specific Directory
  <script src="https://rawgit.com/Taha248/Scripts/master/CGPA-Script.js"/>
 ```
 
-<img src="https://image.ibb.co/eaL8d8/imgc2.png">
+<img src="https://image.ibb.co/mSuZJ8/imgc2.png">
 </br>
 </br>
 <li> <b>Save </b> & Close it </li>
