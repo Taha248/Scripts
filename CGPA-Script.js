@@ -40,7 +40,7 @@ button.addEventListener ("click", function() {
         break;
       
       default:
-       alert("abc");
+       alert("Error");
     }
             
             if(GPA==0)
