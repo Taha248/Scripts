@@ -1,4 +1,3 @@
-
     $(document).ready(function(){
         var button = document.createElement("button");
 button.innerHTML = "Stats";
@@ -7,12 +6,21 @@ var body = document.getElementsByTagName("body")[0];
 p.appendChild(button);
 
 button.addEventListener ("click", function() {
-   var rowLenght =   $(".transcript-content").length; 
+    
+    var START_FROM  = 0  // No of Courses to be Skipped from starting , Default 0 
+    var END_TILL    = 0 // No of Courses to be Skipped from end , Default 0
+    
+    var rowLenght =   $(".transcript-content").length; 
         var y =  $("tbody .transcript-content").length;
      
     
         var val=4,totalWeightedGPA=0,totalCourses=0,totalCreditHours=0,FailedCount=0,A=0,Bplus=0,B=0,Cplus=0,C=0;
-        for(var i=1;i<=rowLenght;i++){
+        
+        for(var i=1;i<=rowLenght-END_TILL;i++){
+        if(START_FROM>=i ){
+            val+=5;
+            continue;
+        }
         var GPA =  $("tbody .transcript-content").children().eq(val).html();
         var CrHr =  $("tbody .transcript-content").children().eq(val-2).html(); 
         var Grade =  $("tbody .transcript-content").children().eq(val-1).html(); 
